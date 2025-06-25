@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+
+.main-heading {
+    color: #770653;
+    font-size: 36px;
+}
+
+.intro-text {
+    font-size: 18px;
+    color: #d414b7;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+
+}
+
+.section-title {
+    color: #2980b9;
+    font-size: 24px;
+    font-style:initial;
+}
+
+.course-list {
+    font-size: 16px;
+    color: #2c3e50;
+    list-style-type:circle;
+    margin-left: 20px;
+}
+
+.course-list li {
+    margin-bottom: 5px;
+    color:#321293;
+    text-transform: capitalize;
+}
+
+.contact-info {
+    margin-top: 30px;
+    font-size: 16px;
+    background-color: #cfb5da;
+}
+
+.contact-info a {
+    color: #630202;
+    text-decoration: underline;
+}
